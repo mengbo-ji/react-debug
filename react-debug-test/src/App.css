@@ -1,0 +1,17 @@
+.content {
+  display: flex;
+  justify-content: center;
+	align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 400px;
+  height: 400px;
+}
+
+button, span {
+  width: 100px;
+}
